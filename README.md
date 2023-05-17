@@ -1,4 +1,4 @@
-Product Profit Calculator
+*_Product Profit Calculator_*
 
 
 This repository contains a Python script that calculates the profit and profit percentage for products based on the provided sell price. It utilizes the pandas library to load and process data from an Excel file.
