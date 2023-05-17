@@ -7,7 +7,11 @@ Features
 
 
 _Product Search:_ The script allows users to search for products by their key and volume. It performs a search in the loaded dataset and displays the matching products' information.
+
+
 _Profit Calculation:_ For each matching product, the script calculates the profit by subtracting the cost price from the sell price. It also calculates the profit percentage by dividing the profit by the cost price.
+
+
 _Recommended Prices:_ The script includes a predefined dictionary of recommended prices for specific products and volumes. It compares the sell price with the recommended prices and calculates the profit and profit percentage based on the recommendations.
 
 
